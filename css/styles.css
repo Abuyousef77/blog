@@ -1,0 +1,20 @@
+ul {
+  list-style: none;
+}
+
+.important {
+  color: black;
+}
+
+a:link {
+  color: black;
+  font-size: 50px;
+}
+
+a:hover {
+  color: red
+}
+
+body {
+  text-align: center;
+}
